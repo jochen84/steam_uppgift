@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c28dd0c4-f2eb-4fc9-afa8-79bc870058ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VC6mZeBoCbZrmyuT5tRiwzWt1F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Erik Svensson\IdeaProjects\StreamAssignment\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="se.lexicon.vxo.model" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="se.lexicon.vxo.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StreamAssignment">
+    <configuration name="StreamAssignment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StreamAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.lexicon.vxo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.lexicon.vxo.service" />
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.vxo.service.StreamAssignment" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAssignment.task10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StreamAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.lexicon.vxo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.lexicon.vxo.service" />
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.vxo.service.StreamAssignment" />
+      <option name="METHOD_NAME" value="task10" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAssignment.task12" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StreamAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.lexicon.vxo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.lexicon.vxo.service" />
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.vxo.service.StreamAssignment" />
+      <option name="METHOD_NAME" value="task12" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAssignment.task13" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StreamAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.lexicon.vxo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.lexicon.vxo.service" />
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.vxo.service.StreamAssignment" />
+      <option name="METHOD_NAME" value="task13" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAssignment.task14" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StreamAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.lexicon.vxo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.lexicon.vxo.service" />
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.vxo.service.StreamAssignment" />
+      <option name="METHOD_NAME" value="task14" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StreamAssignment" />
+        <item itemvalue="JUnit.StreamAssignment.task14" />
+        <item itemvalue="JUnit.StreamAssignment.task13" />
+        <item itemvalue="JUnit.StreamAssignment.task10" />
+        <item itemvalue="JUnit.StreamAssignment.task12" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c28dd0c4-f2eb-4fc9-afa8-79bc870058ca" name="Default Changelist" comment="" />
+      <created>1576744889246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576744889246</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2792" y="364" key="#Project_Structure" timestamp="1579253284690">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state x="2792" y="364" key="#Project_Structure/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1579253284690" />
+    <state width="2517" height="292" key="GridCell.Tab.0.bottom" timestamp="1579862071298">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1493" height="181" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.2560.1410@0.0.1536.834" timestamp="1579771299163" />
+    <state width="2517" height="292" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1579862071298" />
+    <state width="2517" height="292" key="GridCell.Tab.0.center" timestamp="1579862071298">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1493" height="181" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.2560.1410@0.0.1536.834" timestamp="1579771299163" />
+    <state width="2517" height="292" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1579862071298" />
+    <state width="2517" height="292" key="GridCell.Tab.0.left" timestamp="1579862071298">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1493" height="181" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.2560.1410@0.0.1536.834" timestamp="1579771299163" />
+    <state width="2517" height="292" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1579862071298" />
+    <state width="2517" height="292" key="GridCell.Tab.0.right" timestamp="1579862071298">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1493" height="181" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.2560.1410@0.0.1536.834" timestamp="1579771299163" />
+    <state width="2517" height="292" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1579862071298" />
+    <state x="2680" y="280" key="SettingsEditor" timestamp="1579256286425">
+      <screen x="1920" y="0" width="2560" height="1410" />
+    </state>
+    <state x="2680" y="280" key="SettingsEditor/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1579256286425" />
+    <state x="586" y="313" key="com.intellij.ide.util.TipDialog" timestamp="1579678967869">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="2896" y="530" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.2560.1410@1920.0.2560.1410" timestamp="1579503620543" />
+    <state x="586" y="313" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1579678967869" />
+    <state x="209" y="114" key="new project wizard" timestamp="1579679025547">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="114" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1579679025547" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/StreamAssignment$StreamAssignment.ic" NAME="StreamAssignment Coverage Results" MODIFIED="1579771299148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>se.lexicon.vxo.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>
